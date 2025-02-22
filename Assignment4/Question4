@@ -1,0 +1,14 @@
+Assignment Description
+Using your semester project problem statement, dataset, selected features, and any feature engineering you performed:
+• Partition your data into training, validation, and testing datasets.
+• Briefly discuss your strategy for this partitioning (e.g., simple random sample, stratified sampling, etc.)
+Next, train several candidate predictive models:
+• Train 1-2 complex model forms (e.g., neural network, random forest, etc.)
+• Train 1-2 simpler, transparent model forms (e.g., decision tree, k-nearest neighbor, etc.)
+• Compare the performance of each trained model.
+Finally, select the model for which you’d recommend deploying to address your problem statement, and briefly discuss
+your basis for that selection (e.g., considering a balance between accuracy and transparency). Briefly identify any model
+or data improvements that would be needed prior to deploying the model.
+
+Deliverable
+Submit a well-formatted short report that addresses each of the above points.
