@@ -1,0 +1,17 @@
+Using your semester project data, create three well-formatted data visualizations. Examples might include scatter plots,
+histograms, heatmaps, correlation plots, etc. Describe what the basic insights are for each visualization.
+Select a response variable (i.e., what you’d like to predict). Then select some or all of the remaining variables as features
+(i.e., the variables you’ll use to predict the response variable). Fit a linear regression model that predicts your repones
+variable as a function of the available features, and report an accuracy metric (such as R2). Plot the predicted vs.
+observed datapoints (i.e., the plot in which a perfect model would show all predictions along the 45 degree line).
+Finally, plot your accuracy metric over a range of model complexity (similar to the bias-variance tradeoff plot). You can
+consider the number of features in your model to be a measure of its complexity. This exercise involves iteratively fitting a
+model and recording its resulting accuracy. In the first iteration, fit the model with only one feature. In the second iteration,
+fit the model using two features, and so forth, with the final model using all available features.
+
+Deliverable
+Turn in a well-formatted short report that includes:
+• Your three data visualizations and resulting insights;
+• Plot of predicted vs. observed data points using your fitted linear regression model, with an accuracy metric
+(such as R2) included on the plot;
+• Plot of model accuracy over a range of model complexity. Describe why this curve is shaped the way it is.
