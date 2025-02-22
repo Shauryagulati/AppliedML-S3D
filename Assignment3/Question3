@@ -1,0 +1,12 @@
+Systematically review each feature in your semester project dataset. Briefly document the following points for each
+feature:
+• What the feature represents
+• What datatype the feature is (e.g., categorical, numerical, float, integer, etc.)
+• A judgement as to whether the feature might be an important predictor of your target variable
+• Some characterization of the range of observed values (e.g., mean and standard deviation for numerical
+variables, list or description of the levels for categorical variables)
+• Identify if any transformation (e.g., log transform) or encoding (e.g., one-hot encoding) might be needed to use the
+feature in a predictive model
+
+Deliverable
+Submit a well-formatted short report that addresses each of the above points.
