@@ -1,7 +1,7 @@
-# 17634 - Applied Machine Learning
+Applied Machine Learning
 
 
-## Course Description
+## Description
 Automated decisions systems increasingly rely on machine learning models for classification, regression, and
 prediction. The practical application of machine learning requires understanding the basic structure,
 assumptions, and limitations for a variety of model forms; how to formulate a meaningful problem; how to
